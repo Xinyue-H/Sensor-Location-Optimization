@@ -1,0 +1,7 @@
+<edgeRelations>
+   <interval begin="0" end="6000">
+      <edgeRelation from="M3" to="R2" probability="0.4"/>
+      <edgeRelation from="M3" to="M4" probability="0.6"/>
+   </interval>
+
+</edgeRelations>

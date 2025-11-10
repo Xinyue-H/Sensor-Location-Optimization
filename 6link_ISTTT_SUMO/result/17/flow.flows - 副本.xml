@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<flowdefs>
+<vType id="carA" accel="1" decel="4.5" sigma="0.5" length="4" maxSpeed="140"/>
+<flow id="type0" type="carA"  color="1,1,0" from="E1" begin="0" end= "1500" vehsPerHour="1000" />
+<flow id="type2" type="carA" color="1,0,1" from="E2" begin="0" end= "1800" vehsPerHour="600" />
+<flow id="type5" type="carA" color="1,0,0" from="E5" begin="300" end= "1000" vehsPerHour="850" />
+
+</flowdefs>

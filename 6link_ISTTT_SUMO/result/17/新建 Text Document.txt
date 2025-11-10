@@ -1,0 +1,5 @@
+<flow id="type3" type="carA" color="1,0,1" from="E2" begin="1800" end= "3000" vehsPerHour="900" />
+
+
+<flow id="type4" type="carA" color="1,1,0" from="E1" begin="1800" end= "3600" vehsPerHour="2000" />
+<flow id="type5" type="carA" color="1,0,1" from="E2" begin="3000" end= "3600" vehsPerHour="300" />

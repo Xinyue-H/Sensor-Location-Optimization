@@ -1,0 +1,1 @@
+jtrrouter --flows=flow.flows.xml --turn-ratio-files=turn.turns.xml --net-file=6link.net.xml --output-file=routes.rou.xml --accept-all-destinations=t
